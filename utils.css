@@ -1,0 +1,20 @@
+.text{
+    text-align: center;
+    background-color: #ECC9EE;
+}
+.bg{
+    text-align: center;
+    background-color: #C9A7EB;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
